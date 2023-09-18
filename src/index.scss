@@ -1,0 +1,13 @@
+$color: steelblue;
+
+.my-flix {
+  color: $color;
+}
+#root {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+img {
+  width: 100;
+}
